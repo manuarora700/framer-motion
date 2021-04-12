@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
+import Loader from "./Loader";
 
 const buttonVariant = {
   hover: {
@@ -45,6 +46,7 @@ const Home = () => {
           Create Your Burger
         </motion.button>
       </Link>
+      <Loader />
     </motion.div>
   );
 };

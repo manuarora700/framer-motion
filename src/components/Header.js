@@ -67,7 +67,7 @@ const Header = () => {
             initial="hidden"
             animate="visible"
             d="M111.888 240.769L113.444 144.658L197.882 193.686L111.888 240.769Z"
-            stroke="black"
+            stroke="white"
             stroke-width="16"
           />
           <motion.path
@@ -75,7 +75,7 @@ const Header = () => {
             initial="hidden"
             animate="visible"
             d="M187.166 188.391L65.2489 109.876C63.9179 109.019 62.166 109.975 62.166 111.558V193.891L61.166 275.391"
-            stroke="black"
+            stroke="white"
             stroke-width="16"
           />
           <motion.path
@@ -83,7 +83,7 @@ const Header = () => {
             initial="hidden"
             animate="visible"
             d="M106.166 298.891C90.6661 307.039 61.166 297.391 61.166 274.891"
-            stroke="black"
+            stroke="white"
             stroke-width="16"
           />
           <motion.path
@@ -91,7 +91,7 @@ const Header = () => {
             initial="hidden"
             animate="visible"
             d="M69.666 54.3909C79.0318 30.3506 114.666 20.8909 134.666 33.8909"
-            stroke="black"
+            stroke="white"
             stroke-width="16"
           />
           <motion.path
@@ -99,7 +99,7 @@ const Header = () => {
             initial="hidden"
             animate="visible"
             d="M251.666 167.391C269.666 178.891 271.166 210.891 246.666 223.891"
-            stroke="black"
+            stroke="white"
             stroke-width="16"
           />
           <motion.path
@@ -107,7 +107,7 @@ const Header = () => {
             initial="hidden"
             animate="visible"
             d="M11.1666 100.391C11.1664 56.3907 63.6665 47.3908 85.6658 61.3907"
-            stroke="black"
+            stroke="white"
             stroke-width="16"
           />
           <motion.path
@@ -115,7 +115,7 @@ const Header = () => {
             initial="hidden"
             animate="visible"
             d="M118.666 348.391C62.729 378.337 10.1861 322.74 10.6663 287.891"
-            stroke="black"
+            stroke="white"
             stroke-width="16"
           />
           <motion.path
@@ -123,7 +123,7 @@ const Header = () => {
             initial="hidden"
             animate="visible"
             d="M287.666 131.391C345.666 168.391 321.166 240.391 291.166 256.391"
-            stroke="black"
+            stroke="white"
             stroke-width="16"
           />
           <motion.path
@@ -131,7 +131,7 @@ const Header = () => {
             initial="hidden"
             animate="visible"
             d="M105.166 299.391L246.666 223.891"
-            stroke="black"
+            stroke="white"
             stroke-width="16"
           />
           <motion.path
@@ -139,7 +139,7 @@ const Header = () => {
             initial="hidden"
             animate="visible"
             d="M251.666 167.391L85.666 61.3909"
-            stroke="black"
+            stroke="white"
             stroke-width="16"
           />
           <motion.path
@@ -147,7 +147,7 @@ const Header = () => {
             initial="hidden"
             animate="visible"
             d="M11.166 100.391L10.666 288.391"
-            stroke="black"
+            stroke="white"
             stroke-width="16"
           />
           <motion.path
@@ -155,7 +155,7 @@ const Header = () => {
             initial="hidden"
             animate="visible"
             d="M118.667 348.391L291.167 256.391"
-            stroke="black"
+            stroke="white"
             stroke-width="16"
           />
           <motion.path
@@ -163,7 +163,7 @@ const Header = () => {
             initial="hidden"
             animate="visible"
             d="M287.666 131.391L134.518 33.7655"
-            stroke="black"
+            stroke="white"
             stroke-width="16"
           />
         </motion.svg>
