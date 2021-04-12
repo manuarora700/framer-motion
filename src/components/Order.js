@@ -47,7 +47,7 @@ const Order = ({ pizza, setShowModal }) => {
       <h2>Thank you for your order :)</h2>
 
       <motion.p variants={childVariant}>
-        You ordered a {pizza.base} pizza with:
+        You ordered a {pizza.base} burger with:
       </motion.p>
       <motion.div variants={childVariant}>
         {pizza.toppings.map((topping) => (

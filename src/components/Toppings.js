@@ -31,12 +31,12 @@ const containerVariant = {
 
 const Toppings = ({ addTopping, pizza }) => {
   let toppings = [
-    "mushrooms",
-    "peppers",
-    "onions",
+    "Cheese",
+    "Double Pattie",
+    "Onions",
     "olives",
-    "extra cheese",
-    "tomatoes",
+    "Tomatoes",
+    "Ketchup (ew)",
   ];
 
   return (

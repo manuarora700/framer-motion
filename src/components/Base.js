@@ -35,7 +35,7 @@ const buttonVariant = {
 };
 
 const Base = ({ addBase, pizza }) => {
-  const bases = ["Classic", "Thin & Crispy", "Thick Crust"];
+  const bases = ["Big Brown Bun", "Small Bun", "Paaji's extra large wheat bun"];
 
   return (
     <motion.div
